@@ -154,7 +154,7 @@ const developer = {
    ">
 
   <span style="position: relative; z-index: 2;">
-    © 2025 <span style="color: #ae0000;">PST DEV</span>
+    © 2026 <span style="color: #ae0000;">PST DEV</span>
   </span>
   
   <span style="
