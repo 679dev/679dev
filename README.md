@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ae0000&height=250&section=header&text=PST%20DEV&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Software%20Engineering%20Student%20and%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ae0000&height=250&section=header&text=PST%20DEV&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Software%20Student%20and%20Developer&descAlignY=60&descAlign=50&fontColor=ffffff)
 </div>
 
 ## 👨‍💻 About Me
