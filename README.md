@@ -28,6 +28,7 @@ const developer = {
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🚀_View_Portfolio-000000?style=for-the-badge&logo=netlify&logoColor=ae0000&labelColor=000000)](https://pstdev.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Main_Profile-000000?style=for-the-badge&logo=netlify&logoColor=ae0000&labelColor=000000)](https://github.com/PasanSiriwardana)
 
 </div>
 
