@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ae0000&height=250&section=header&text=679%20DEV&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&fontColor=ffffff)
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ae0000&height=250&section=header&text=679%20DEV&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Software%20Developer&descAlignY=60&fontColor=ffffff)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">👋 Welcome to my GitHub profile!</h2>
 
@@ -19,7 +19,7 @@
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
 ```javascript
 const developer = {
@@ -37,122 +37,68 @@ const developer = {
 
 ---
 
-## 🧠 Most Used Languages
+### Discord Status
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=679dev&layout=compact&langs_count=8&theme=radical&hide_border=true" 
-    alt="Most Used Languages"
-  />
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1033462196329525299?showDisplayName=true&hideBadges=true&theme=dark)](https://discord.com/users/1033462196329525299)
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+🌐 Frontend
 
-### 🌐 Frontend
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JS](https://img.shields.io/badge/-JS-05122A?style=flat&logo=JS&logoColor=1572B6)&nbsp;
+![TS](https://img.shields.io/badge/-TS-05122A?style=flat&logo=TS&logoColor=1572B6)&nbsp;
+![REACT](https://img.shields.io/badge/-REACT-05122A?style=flat&logo=REACT)&nbsp;
+![VITE](https://img.shields.io/badge/-VITE-05122A?style=flat&logo=VITE)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="36" />
+🧠 Backend
 
-<br><br>
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)&nbsp;
+![NODEJS](https://img.shields.io/badge/-NODE%20JS-05122A?style=flat&logo=NODEJS)&nbsp;
+![PYTHON](https://img.shields.io/badge/-PYTHON-05122A?style=flat&logo=PYTHON)&nbsp;
+![JAVA](https://img.shields.io/badge/-JAVA-05122A?style=flat&logo=JAVA)&nbsp;
+![LUA](https://img.shields.io/badge/-LUA-05122A?style=flat&logo=LUA)&nbsp;
 
-### 🧠 Backend
+🗄️ Databases
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="36" />
+![MYSQL](https://img.shields.io/badge/-MYSQL-05122A?style=flat&logo=MYSQL)&nbsp;
+![MARIADB](https://img.shields.io/badge/-MARIADB-05122A?style=flat&logo=MARIADB)&nbsp;
+![FIREBASE](https://img.shields.io/badge/-FIREBASE-05122A?style=flat&logo=FIREBASE)&nbsp;
 
-<br><br>
+⚙️ Tools
 
-### 🗄️ Databases
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma)&nbsp;
+![Blender](https://img.shields.io/badge/Blender-05122A?style=flat&logo=blender)&nbsp;
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-05122A?style=flat&logo=Adobe%20Photoshop)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![POSTMAN](https://img.shields.io/badge/-POSTMAN-05122A?style=flat&logo=POSTMAN)&nbsp;
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36" />
+🛏️ Others
 
-<br><br>
-
-### ⚙️ Tools
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" />
-<img width="12"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36" />
-
-</div>
+![FiveM](https://img.shields.io/badge/FiveM-05122A?style=flat&logo=fivem&logoColor=FFFFFF)&nbsp;
+![GTA RP](https://img.shields.io/badge/GTA%20RP-05122A?style=flat&logo=grand-theft-auto&logoColor=3D3D3D)&nbsp;
+![Rockstar](https://img.shields.io/badge/Rockstar-05122A?style=flat&logo=rockstar-games&logoColor=FF0000)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-05122A?style=flat&logo=discord&logoColor=7289DA)&nbsp;
+![Steam](https://img.shields.io/badge/Steam-05122A?style=flat&logo=steam&logoColor=000000)&nbsp;
+![Epic Games](https://img.shields.io/badge/Epic%20Games-05122A?style=flat&logo=epic-games&logoColor=313131)&nbsp;
 
 ---
 
-## 📊 GitHub Analytics
+### 🌐 Connect With Me
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=679dev&show_icons=true&theme=dark&hide_border=false" />
-
-<br><br>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=679dev&theme=dark&hide_border=false" />
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div style="
-  background: linear-gradient(145deg, rgba(174, 0, 0, 0.15) 0%, rgba(0, 0, 0, 0.85) 100%);
-  border-radius: 20px;
-  padding: 30px;
-  border: 1px solid rgba(174, 0, 0, 0.4);
-  backdrop-filter: blur(15px);
-  box-shadow: 
-    0 10px 40px rgba(174, 0, 0, 0.25),
-    inset 0 1px 0 rgba(255, 255, 255, 0.1);
-  margin-top: 30px;
-  width: 100%;
-  max-width: 1100px;
-">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=679dev&theme=github-dark&bg_color=00000000&color=ffffff&line=ae0000&point=ffffff&area=true&area_color=ae0000&hide_border=true" 
-    alt="Activity Graph" 
-    style="border-radius: 15px; width: 100%;"
-  />
-</div>
-
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🚀_Portfolio-000000?style=for-the-badge)](https://679dev.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge)](https://linkedin.com/in/pasan-siriwardana)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-181717?style=for-the-badge)](https://github.com/679dev)
-[![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge)](mailto:pasansiriwardana3@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=w&logoColor=white)](https://679dev.netlify.app)
+[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)](https://github.com/679dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-siriwardana)
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1033462196329525299)
+[![GitBook Profile](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white)](mailto:pasansiriwardana3@gmail.com)
 
 </div>
 
@@ -160,22 +106,6 @@ const developer = {
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=679dev\&label=PROFILE+VIEWS\&color=ae0000\&style=flat-square)
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **"Code is like humor. When you have to explain it, it’s bad." – Cory House** ⭐
-
-</div>
-
----
-
-<div align="center">
-
-© 2026 **679 DEV** — Built with passion and precision
+**"Code is like humor. When you have to explain it, it’s bad." – Cory House**
 
 </div>
