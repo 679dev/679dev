@@ -39,7 +39,7 @@ const developer = {
 
 ### Discord Status
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1033462196329525299?idleMessage=I%E2%80%99d%20rather%20keep%20my%20current%20actions%20private%20on%20this%20matter.&showDisplayName=true&hideBadges=true&theme=dark)](https://discord.com/users/1033462196329525299)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1033462196329525299?idleMessage=I%20prefer%20not%20to%20share%20my%20current%20activities%20here.&showDisplayName=true&hideBadges=true&theme=dark)](https://discord.com/users/1033462196329525299)
 
 ---
 
