@@ -1,5 +1,3 @@
-# 🚀 679 DEV
-
 <div align="center">
 
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ae0000&height=250&section=header&text=679%20DEV&fontSize=80&animation=fadeIn&fontAlignY=45&desc=Full-Stack%20Software%20Developer&descAlignY=60&fontColor=ffffff)
