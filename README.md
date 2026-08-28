@@ -92,15 +92,11 @@ const developer = {
 
 ### 🌐 Connect With Me
 
-<div align="center">
-
 [![Portfolio](https://img.shields.io/badge/-Portfolio-05122A?style=flat&logo=w&logoColor=white)](https://679dev.netlify.app)
 [![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)](https://github.com/679dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-05122A?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/pasan-siriwardana)
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=white)](https://discord.com/users/1033462196329525299)
 [![GitBook Profile](https://img.shields.io/badge/-Email-05122A?style=flat&logo=gmail&logoColor=white)](mailto:pasansiriwardana3@gmail.com)
-
-</div>
 
 ---
 
